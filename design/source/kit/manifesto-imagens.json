@@ -1,0 +1,246 @@
+[
+  {
+    "arquivo": "01-hero/hero-desktop.png",
+    "uso": "Fundo de abertura desktop, atendimento à direita e espaço para título à esquerda.",
+    "largura": 1672,
+    "altura": 941,
+    "modo": "RGB",
+    "bytes": 1882524,
+    "sha256": "668f7dca17b535beeec1b4bd192bc67f556e09c36e6ab9230fdd00eedba805f6",
+    "transparente": false
+  },
+  {
+    "arquivo": "03-galeria/look-01-signature-fade.png",
+    "uso": "Retrato final do Hero e primeiro cartão de cortes.",
+    "largura": 1086,
+    "altura": 1448,
+    "modo": "RGB",
+    "bytes": 2130068,
+    "sha256": "838056c6d91460d70acc584ef1bb586db57d08f975adb001659facca7de22883",
+    "transparente": false
+  },
+  {
+    "arquivo": "03-galeria/look-02-texture-perms.png",
+    "uso": "Galeria de textura e cachos, referência visual para haircut & perms.",
+    "largura": 1086,
+    "altura": 1448,
+    "modo": "RGB",
+    "bytes": 2110179,
+    "sha256": "c5bedb2423b095c40959c5f3b9c9e877589b760ea3f8027b3ec3f105481aeb78",
+    "transparente": false
+  },
+  {
+    "arquivo": "03-galeria/look-03-haircut-beard.png",
+    "uso": "Galeria de corte clássico e barba.",
+    "largura": 1086,
+    "altura": 1448,
+    "modo": "RGB",
+    "bytes": 2031764,
+    "sha256": "81c295098f58d8c44bc41e5f759890e0706214c750de411ff6de662eaff5e788",
+    "transparente": false
+  },
+  {
+    "arquivo": "04-secoes/craft-acabamento.png",
+    "uso": "Detalhe do acabamento para a seção The craft.",
+    "largura": 1672,
+    "altura": 941,
+    "modo": "RGB",
+    "bytes": 2189466,
+    "sha256": "6a274122ef1328e8c2333d6d098876f348f002c83a4eb131cc13024f9ce7517e",
+    "transparente": false
+  },
+  {
+    "arquivo": "04-secoes/servicos-ferramentas.png",
+    "uso": "Ferramentas para composição do bloco de serviços.",
+    "largura": 1672,
+    "altura": 941,
+    "modo": "RGB",
+    "bytes": 2140097,
+    "sha256": "b469349a507b3c3786d06559b43611d0d497ae7f203d1f8bc22b95517f2cb5de",
+    "transparente": false
+  },
+  {
+    "arquivo": "04-secoes/ritual-cadeira-espelho.png",
+    "uso": "Seção do ritual, cadeira e espelho oval.",
+    "largura": 1672,
+    "altura": 941,
+    "modo": "RGB",
+    "bytes": 2120474,
+    "sha256": "b84bc6fa633fb9be2f936b690e45a0304c8c1d65780ea384b3015ff2acd5a782",
+    "transparente": false
+  },
+  {
+    "arquivo": "01-hero/fundo-grafite.png",
+    "uso": "Fundo discreto para transições, peças transparentes e contato.",
+    "largura": 1672,
+    "altura": 941,
+    "modo": "RGB",
+    "bytes": 1479738,
+    "sha256": "c58d04f09a4e1802b3a77e18400f5abcc964aaea71a821da314794d8fe28941d",
+    "transparente": false
+  },
+  {
+    "arquivo": "02-animacao/macro-fio-navalha.png",
+    "uso": "Plano macro para a passagem do contorno do fade ao metal.",
+    "largura": 1672,
+    "altura": 941,
+    "modo": "RGB",
+    "bytes": 1755765,
+    "sha256": "ff1eb56c359e333ac53e6bdf920b982336deb07358274624eb0fa6669d0d8329",
+    "transparente": false
+  },
+  {
+    "arquivo": "02-animacao/navalha-explodida.png",
+    "uso": "Navalha em três camadas transparentes, referência de posição aberta.",
+    "largura": 1536,
+    "altura": 1024,
+    "modo": "RGBA",
+    "bytes": 1908022,
+    "sha256": "c7b22222d4d08f4178e00d931ca4cfee16334fe5d27ea754f35174657cc9fa49",
+    "transparente": true,
+    "caixa_alpha": [
+      106,
+      34,
+      1445,
+      1009
+    ]
+  },
+  {
+    "arquivo": "01-hero/hero-mobile.png",
+    "uso": "Hero com enquadramento vertical e espaço superior para títulos no celular.",
+    "largura": 1086,
+    "altura": 1448,
+    "modo": "RGB",
+    "bytes": 1842470,
+    "sha256": "d0dc9faa838f0ebc13c709a9dce4a45e87000b9494b0e7e1e697d480fa5218a3",
+    "transparente": false
+  },
+  {
+    "arquivo": "02-animacao/retrato-final-transparente.png",
+    "uso": "Retrato recortado para a revelação pelo O e encaixe na galeria.",
+    "largura": 1086,
+    "altura": 1448,
+    "modo": "RGBA",
+    "bytes": 1992889,
+    "sha256": "3f78247ff63cb2e99be5bacb85e141c2fcb2ceb9598586b1d54d7976f6ebf338",
+    "transparente": true,
+    "caixa_alpha": [
+      0,
+      115,
+      1086,
+      1448
+    ]
+  },
+  {
+    "arquivo": "05-marca/monograma-o-transparente.png",
+    "uso": "Monograma O para sobreposição e transição à galeria",
+    "largura": 1536,
+    "altura": 1024,
+    "modo": "RGBA",
+    "bytes": 739179,
+    "sha256": "163712cc67cb5f0f056dc4862e8c1ec1e34d3eb73868212c0bb7396408b45585",
+    "transparente": true,
+    "caixa_alpha": [
+      544,
+      174,
+      966,
+      578
+    ]
+  },
+  {
+    "arquivo": "05-marca/orhan-logo-transparente.png",
+    "uso": "Logo ORHAN aprovado, em PNG transparente",
+    "largura": 1536,
+    "altura": 1024,
+    "modo": "RGBA",
+    "bytes": 1118114,
+    "sha256": "e43c469caadce69ff3b4e7774846c83d1a45108dea748b8690cdf531e31822a0",
+    "transparente": true,
+    "caixa_alpha": [
+      125,
+      174,
+      1410,
+      886
+    ]
+  },
+  {
+    "arquivo": "02-animacao/lamina.png",
+    "uso": "Lâmina isolada para a separação por scroll",
+    "largura": 1536,
+    "altura": 1024,
+    "modo": "RGBA",
+    "bytes": 862925,
+    "sha256": "fec4fca0d51ab3bbe2a11b1b6d67daaaf49f113bf49a7db3a88df22bd64ea67a",
+    "transparente": true,
+    "caixa_alpha": [
+      140,
+      35,
+      1032,
+      382
+    ]
+  },
+  {
+    "arquivo": "02-animacao/suporte.png",
+    "uso": "Suporte cromado isolado para a separação por scroll",
+    "largura": 1536,
+    "altura": 1024,
+    "modo": "RGBA",
+    "bytes": 999587,
+    "sha256": "a24d67a73c4e7a835a7f7281c23d0dd9f6e81e3afdee123a7ae64a00f9046f5c",
+    "transparente": true,
+    "caixa_alpha": [
+      119,
+      309,
+      1434,
+      749
+    ]
+  },
+  {
+    "arquivo": "02-animacao/cabo.png",
+    "uso": "Cabo azul-marinho isolado para a separação por scroll",
+    "largura": 1536,
+    "altura": 1024,
+    "modo": "RGBA",
+    "bytes": 1196347,
+    "sha256": "cc6e2f2560555c38c39426a330d0b161d0dbc35cb07e0a8ee9babdcc26ac7a2d",
+    "transparente": true,
+    "caixa_alpha": [
+      107,
+      565,
+      1444,
+      1010
+    ]
+  },
+  {
+    "arquivo": "02-animacao/navalha-montada.png",
+    "uso": "Navalha aberta montada, estado inicial e final da composição",
+    "largura": 1536,
+    "altura": 1024,
+    "modo": "RGBA",
+    "bytes": 1379632,
+    "sha256": "14880491a60aaf04db19be2372fe5b961d1142748df6a74ba4dc3db51936959a",
+    "transparente": true,
+    "caixa_alpha": [
+      59,
+      47,
+      1487,
+      986
+    ]
+  },
+  {
+    "arquivo": "02-animacao/navalha-fechada.png",
+    "uso": "Navalha recolhida para a transição de encerramento",
+    "largura": 1536,
+    "altura": 1024,
+    "modo": "RGBA",
+    "bytes": 1452336,
+    "sha256": "ae026c5ecca0b445b5ad0de8e8cf307343ea981a3e5981b31408893772c97211",
+    "transparente": true,
+    "caixa_alpha": [
+      59,
+      217,
+      1506,
+      844
+    ]
+  }
+]

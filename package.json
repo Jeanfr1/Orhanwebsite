@@ -1,0 +1,23 @@
+{
+  "name": "orhan-barber-st-albans",
+  "private": true,
+  "version": "1.0.0",
+  "description": "ORHAN Barber, St Albans: one-page barbershop site with a scroll-driven razor hero (The Signature Line).",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "images": "node scripts/optimize-images.mjs"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "@fontsource-variable/archivo": "^5.2.5"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5",
+    "vite": "^6.4.3"
+  }
+}

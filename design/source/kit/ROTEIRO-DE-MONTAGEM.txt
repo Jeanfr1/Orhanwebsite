@@ -1,0 +1,167 @@
+ORHAN - THE SIGNATURE LINE
+KIT DE IMAGENS PARA ANIMAÇÃO E SEÇÕES
+
+COMECE AQUI
+Extraia o ZIP e abra catalogo.html para ver os arquivos.
+As imagens de produção estão individuais, sem títulos ou botões incorporados.
+Dimensões reais, transparência e limites do objeto estão no manifesto.
+Os PNGs preservam a resolução nativa gerada, sem ampliação artificial.
+
+PASTAS
+01-hero: abertura desktop/celular e fundo de transições.
+02-animacao: macro, navalha em estados e peças e retrato recortado.
+03-galeria: três retratos de cortes / barba / textura.
+04-secoes: acabamento, ferramentas e ambiente.
+05-marca: logo e monograma transparentes.
+06-referencias: layout, estado central e storyboard; não usar como fotos das seções.
+07-integracao: configuração Booksy, código e botão de exemplo funcional.
+
+IMAGENS E FUNÇÕES
+
+01-hero/hero-desktop.png
+  Fundo de abertura desktop, atendimento à direita e espaço para título à esquerda.
+  1672 x 941 px; fotografia PNG
+
+03-galeria/look-01-signature-fade.png
+  Retrato final do Hero e primeiro cartão de cortes.
+  1086 x 1448 px; fotografia PNG
+
+03-galeria/look-02-texture-perms.png
+  Galeria de textura e cachos, referência visual para haircut & perms.
+  1086 x 1448 px; fotografia PNG
+
+03-galeria/look-03-haircut-beard.png
+  Galeria de corte clássico e barba.
+  1086 x 1448 px; fotografia PNG
+
+04-secoes/craft-acabamento.png
+  Detalhe do acabamento para a seção The craft.
+  1672 x 941 px; fotografia PNG
+
+04-secoes/servicos-ferramentas.png
+  Ferramentas para composição do bloco de serviços.
+  1672 x 941 px; fotografia PNG
+
+04-secoes/ritual-cadeira-espelho.png
+  Seção do ritual, cadeira e espelho oval.
+  1672 x 941 px; fotografia PNG
+
+01-hero/fundo-grafite.png
+  Fundo discreto para transições, peças transparentes e contato.
+  1672 x 941 px; fotografia PNG
+
+02-animacao/macro-fio-navalha.png
+  Plano macro para a passagem do contorno do fade ao metal.
+  1672 x 941 px; fotografia PNG
+
+02-animacao/navalha-explodida.png
+  Navalha em três camadas transparentes, referência de posição aberta.
+  1536 x 1024 px; alpha transparente
+
+01-hero/hero-mobile.png
+  Hero com enquadramento vertical e espaço superior para títulos no celular.
+  1086 x 1448 px; fotografia PNG
+
+02-animacao/retrato-final-transparente.png
+  Retrato recortado para a revelação pelo O e encaixe na galeria.
+  1086 x 1448 px; alpha transparente
+
+05-marca/monograma-o-transparente.png
+  Monograma O para sobreposição e transição à galeria
+  1536 x 1024 px; alpha transparente
+
+05-marca/orhan-logo-transparente.png
+  Logo ORHAN aprovado, em PNG transparente
+  1536 x 1024 px; alpha transparente
+
+02-animacao/lamina.png
+  Lâmina isolada para a separação por scroll
+  1536 x 1024 px; alpha transparente
+
+02-animacao/suporte.png
+  Suporte cromado isolado para a separação por scroll
+  1536 x 1024 px; alpha transparente
+
+02-animacao/cabo.png
+  Cabo azul-marinho isolado para a separação por scroll
+  1536 x 1024 px; alpha transparente
+
+02-animacao/navalha-montada.png
+  Navalha aberta montada, estado inicial e final da composição
+  1536 x 1024 px; alpha transparente
+
+02-animacao/navalha-fechada.png
+  Navalha recolhida para a transição de encerramento
+  1536 x 1024 px; alpha transparente
+
+SEQUÊNCIA DO HERO POR CAMADAS
+0-20%: foto de atendimento; título e Book appointment em HTML.
+20-35%: uma linha CSS/SVG acompanha o contorno do fade. Usar traçado
+        criado no layout, não desenhar permanentemente sobre a fotografia.
+35-45%: crossfade e zoom para macro-fio-navalha.png.
+45-65%: navalha-montada.png aparece; mudar para lamina.png, suporte.png
+        e cabo.png e separar os três planos com deslocamento controlado.
+65-80%: aproximar as peças; crossfade para navalha-montada.png.
+        O estado navalha-fechada.png pode fechar o gesto por transição curta.
+80-90%: monograma-o-transparente.png entra como sobreposição; retrato final
+        aparece em máscara oval dentro do espaço negativo do O.
+90-100%: a máscara expande, o retrato diminui e encaixa no primeiro cartão
+         da galeria. A linha prata segue como divisor entre seções.
+
+ENCAIXE E LIMITES
+Os PNGs permitem deslocamento, escala, opacidade e máscaras; não são vídeo
+nem uma sequência de frames. Abertura do pivô, órbita e rotação real precisam
+de modelo 3D/vídeo produzido. Para versão raster, usar transições entre estados.
+Não inventar rotação para revelar o verso da navalha.
+Use navalha-explodida.png como referência de posição e o estado montado para
+o encaixe final. Peças foram extraídas separadamente: ajustar escala/posição
+visualmente, sem presumir correspondência perfeita pixel a pixel.
+Manter as margens transparentes originais. caixa_alpha informa área visível.
+O monograma é a sobreposição visual; uma máscara oval separada revela o
+retrato no interior. Usar todo o alpha do O como máscara revelaria só o anel.
+
+SEÇÕES
+The craft: craft-acabamento.png, preservando a mão e a ferramenta.
+Services: servicos-ferramentas.png com lista de serviços em HTML.
+Inspiration: três imagens da galeria em cartões de proporção consistente.
+Ritual/Visit: ritual-cadeira-espelho.png; texto no espaço escuro à direita.
+Contato: fundo-grafite.png com título e CTA claros.
+Equipe: fotografias reais de Orhan e Jofani quando disponíveis; nenhuma
+imagem deste kit pretende ser retrato documental desses profissionais.
+
+RESERVA BOOKSY
+Todos os CTAs de reserva usam booking_url em 07-integracao/reserva.json:
+header, Hero, serviços, equipe, botão fixo no celular e rodapé.
+O destino é o URL Booksy contido no parâmetro u do link enviado; o link
+original do Instagram também foi preservado na configuração como referência.
+Os parâmetros do destino enviado foram mantidos. O perfil público equivalente
+confirmado no Booksy está em verified_listing_url; não substituir booking_url
+sem decisão explícita sobre a configuração de reserva.
+O kit não faz reservas automaticamente nem coleta dados de clientes.
+
+Para usar diretamente no HTML, copiar o href de botao-reserva.html.
+Ou importar BOOKING_URL / connectBookingButtons de reserva.js e marcar
+todos os links de reserva com data-booking. Executar depois de montar o DOM.
+Em React, usar href={BOOKING_URL} no componente de CTA compartilhado.
+Os exemplos abrem Booksy em nova aba e mantêm o site disponível.
+Não fabricar links de pré-seleção de serviço sem suporte confirmado do Booksy.
+
+SERVIÇOS - SEM PREÇOS
+Normal haircut No 1 to 6; Haircut & beard; Skin fade; Skin fade & beard;
+Full service; Kids Mon/Thurs; Beard Shaping; OAP; Hair wash;
+Haircut & perms curly; Fringe trim.
+Preservar os rótulos ou aprovar a tradução editorial com a empresa.
+Não inserir valores no site: a seleção e os detalhes seguem no Booksy.
+
+CELULAR E ACESSIBILIDADE
+Usar hero-mobile.png em telas estreitas e manter a cabeça inteira no crop.
+CTA funcional desde a abertura, sem depender do término da animação.
+Com prefers-reduced-motion, mostrar o retrato final e conteúdo sem cena fixa.
+Carregar a imagem inicial primeiro; demais fotos e animação sob demanda.
+O pipeline do site pode gerar WebP/AVIF preservando os originais deste kit.
+
+NATUREZA DAS IMAGENS
+Fotografias conceituais geradas. Não são fotos do espaço, equipe ou clientes
+reais. Usar material documental autorizado quando o conteúdo representar
+a equipe, resultados reais ou ambiente real da empresa.
+prompts-de-producao.json registra as instruções completas de geração.

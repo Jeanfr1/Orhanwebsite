@@ -1,0 +1,138 @@
+{
+  "metodo": "Geração e edição de imagens pela ferramenta integrada",
+  "assets": [
+    {
+      "key": "hero-desktop",
+      "file": "01-hero/hero-desktop.png",
+      "role": "Fundo de abertura desktop, atendimento à direita e espaço para título à esquerda.",
+      "transparent": false,
+      "prompt": "Use case: photorealistic-natural. ONE standalone premium men's barbershop campaign photo for ORHAN, The Signature Line. Inputs are aesthetic / character REFERENCES ONLY, not edit targets. Graphite-black, smoked glass, brushed chrome, restrained navy blue. Neutral warm natural skin with subtle cool silver-blue rim light, modern British barber character. Photoreal anatomy and credible barber tools, subtle grain / natural texture, beautiful photographic depth, high-end editorial visual. Never gold/amber overlays, cyberpunk neon, sci-fi rays or fantasy grooming. NO text, NO lettering, NO logos, NO watermark or corner icon, NO UI, NO webpage, NO labels, NO collage, NO graphic line baked into photo. This is concept campaign imagery, not documentation of real salon or staff. Wide16:9 landscape. SAME adult olive medium-skinned male client with black short curly textured hair, sharp low skinfade, short precisely shaped dark beard and black barbercape as the website. Chest-up 3/4 profile looking right, face at x78%, occupies RIGHT half; whole hair top in frame. Barber in black behind client working carefully with small steel scissors/black comb, tattooed forearm, plausible correct fingers. LEFT 40% is very dark softly blurred modern graphite salon negative space for website headline / CTA. Smoked glass and cool silver vertical highlights at far edges, no prominent white stripes behind copy. Do not put gigantic knife in foreground. Natural expensive human photograph of barber and client, not synthetic glam portrait."
+    },
+    {
+      "key": "portrait-fade",
+      "file": "03-galeria/look-01-signature-fade.png",
+      "role": "Retrato final do Hero e primeiro cartão de cortes.",
+      "transparent": false,
+      "prompt": "Use case: photorealistic-natural. ONE standalone premium men's barbershop campaign photo for ORHAN, The Signature Line. Inputs are aesthetic / character REFERENCES ONLY, not edit targets. Graphite-black, smoked glass, brushed chrome, restrained navy blue. Neutral warm natural skin with subtle cool silver-blue rim light, modern British barber character. Photoreal anatomy and credible barber tools, subtle grain / natural texture, beautiful photographic depth, high-end editorial visual. Never gold/amber overlays, cyberpunk neon, sci-fi rays or fantasy grooming. NO text, NO lettering, NO logos, NO watermark or corner icon, NO UI, NO webpage, NO labels, NO collage, NO graphic line baked into photo. This is concept campaign imagery, not documentation of real salon or staff. Portrait3:4. SAME adult male client olive medium skin, black tight curly textured top, immaculate low skinfade, short precisely shaped black beard as hero, 3/4 profile facing right, black cape and small white neck strip. Only this one client, no barber hands. Chest-up, entire head/hair in frame with top margin. Calm confident expression, not smiling widely. Graphite smoked-glass salon blurred behind him, subtle cool silver vertical bokeh. Consistent neutral skinlight and silverblue subtle rim on hair. This is the finished haircut portrait for transition into first gallerycard, exact identity of source client."
+    },
+    {
+      "key": "portrait-texture",
+      "file": "03-galeria/look-02-texture-perms.png",
+      "role": "Galeria de textura e cachos, referência visual para haircut & perms.",
+      "transparent": false,
+      "prompt": "Use case: photorealistic-natural. ONE standalone premium men's barbershop campaign photo for ORHAN, The Signature Line. Inputs are aesthetic / character REFERENCES ONLY, not edit targets. Graphite-black, smoked glass, brushed chrome, restrained navy blue. Neutral warm natural skin with subtle cool silver-blue rim light, modern British barber character. Photoreal anatomy and credible barber tools, subtle grain / natural texture, beautiful photographic depth, high-end editorial visual. Never gold/amber overlays, cyberpunk neon, sci-fi rays or fantasy grooming. NO text, NO lettering, NO logos, NO watermark or corner icon, NO UI, NO webpage, NO labels, NO collage, NO graphic line baked into photo. This is concept campaign imagery, not documentation of real salon or staff. Portrait3:4 of a DIFFERENT adult man about27 with light-medium skin, black/brown medium-length well defined curls on top with neat taper fade, clean shaven or very short stubble, black barbercape. He looks slightly downward-left in confident relaxed 3/4 pose. Curl texture expressive and realistic, not huge fluffy hair, whole top included. Dark graphite smoked-glass salon and soft silver bokeh. Same campaign lighting and portrait scale as finalfade. Different facial identity to primaryclient, menonly."
+    },
+    {
+      "key": "portrait-beard",
+      "file": "03-galeria/look-03-haircut-beard.png",
+      "role": "Galeria de corte clássico e barba.",
+      "transparent": false,
+      "prompt": "Use case: photorealistic-natural. ONE standalone premium men's barbershop campaign photo for ORHAN, The Signature Line. Inputs are aesthetic / character REFERENCES ONLY, not edit targets. Graphite-black, smoked glass, brushed chrome, restrained navy blue. Neutral warm natural skin with subtle cool silver-blue rim light, modern British barber character. Photoreal anatomy and credible barber tools, subtle grain / natural texture, beautiful photographic depth, high-end editorial visual. Never gold/amber overlays, cyberpunk neon, sci-fi rays or fantasy grooming. NO text, NO lettering, NO logos, NO watermark or corner icon, NO UI, NO webpage, NO labels, NO collage, NO graphic line baked into photo. This is concept campaign imagery, not documentation of real salon or staff. Portrait3:4 of a DIFFERENT adult man about40 with warm tan skin, dark brown neatly combed classic side part, medium fade and full groomed dark beard with hints of grey, black barbercape. 3/4left-facing profile, assured relaxed gaze. Whole hair top included, chest-up. Dark smoked-glass interior and subtle cool silver bokeh. Same skinlighting/lens/portraitcampaign as othergalleryimages. Strong natural masculine style, no barberhands."
+    },
+    {
+      "key": "craft-detail",
+      "file": "04-secoes/craft-acabamento.png",
+      "role": "Detalhe do acabamento para a seção The craft.",
+      "transparent": false,
+      "prompt": "Use case: photorealistic-natural. ONE standalone premium men's barbershop campaign photo for ORHAN, The Signature Line. Inputs are aesthetic / character REFERENCES ONLY, not edit targets. Graphite-black, smoked glass, brushed chrome, restrained navy blue. Neutral warm natural skin with subtle cool silver-blue rim light, modern British barber character. Photoreal anatomy and credible barber tools, subtle grain / natural texture, beautiful photographic depth, high-end editorial visual. Never gold/amber overlays, cyberpunk neon, sci-fi rays or fantasy grooming. NO text, NO lettering, NO logos, NO watermark or corner icon, NO UI, NO webpage, NO labels, NO collage, NO graphic line baked into photo. This is concept campaign imagery, not documentation of real salon or staff. Wide16:9 landscape macro of skilled adult male barber's hand holding a stainless steel modern straight razor with matte navy handle near the SAME client's lower beard cheek/sideburn line. Real credible finishing gesture with tool held gently and blade angle shallow, no blood, no wounds, no scraping damage. Natural hand has correct fingers, grip clean, client's darkbeard and olive skin texture in focus. Only partial face and hand fill RIGHTtwo thirds, left third lowcontrast graphite blurred negative space. Neutral softlight on skin, soft silver-blue reflection on steel, avoid fake tattoos crossingfingers. One tool and one hand only."
+    },
+    {
+      "key": "tools-still-life",
+      "file": "04-secoes/servicos-ferramentas.png",
+      "role": "Ferramentas para composição do bloco de serviços.",
+      "transparent": false,
+      "prompt": "Use case: photorealistic-natural. ONE standalone premium men's barbershop campaign photo for ORHAN, The Signature Line. Inputs are aesthetic / character REFERENCES ONLY, not edit targets. Graphite-black, smoked glass, brushed chrome, restrained navy blue. Neutral warm natural skin with subtle cool silver-blue rim light, modern British barber character. Photoreal anatomy and credible barber tools, subtle grain / natural texture, beautiful photographic depth, high-end editorial visual. Never gold/amber overlays, cyberpunk neon, sci-fi rays or fantasy grooming. NO text, NO lettering, NO logos, NO watermark or corner icon, NO UI, NO webpage, NO labels, NO collage, NO graphic line baked into photo. This is concept campaign imagery, not documentation of real salon or staff. Wide16:9 landscape carefully composed stilllife on graphite counter and black cotton towel. One brushed silver hairscissors, one matte blackfinecomb, one closed navy/chrome straight razor, arranged RIGHTtwo thirds; LEFT third dark subtle texture for text. All tools realistic dimensions, clean steel and cotton tactile, restrained navy accent only, no gold. Smokedglass salon blurred behind with silver reflections. No engraved words or brand marks, no labels or floatingparts."
+    },
+    {
+      "key": "ritual-chair",
+      "file": "04-secoes/ritual-cadeira-espelho.png",
+      "role": "Seção do ritual, cadeira e espelho oval.",
+      "transparent": false,
+      "prompt": "Use case: photorealistic-natural. ONE standalone premium men's barbershop campaign photo for ORHAN, The Signature Line. Inputs are aesthetic / character REFERENCES ONLY, not edit targets. Graphite-black, smoked glass, brushed chrome, restrained navy blue. Neutral warm natural skin with subtle cool silver-blue rim light, modern British barber character. Photoreal anatomy and credible barber tools, subtle grain / natural texture, beautiful photographic depth, high-end editorial visual. Never gold/amber overlays, cyberpunk neon, sci-fi rays or fantasy grooming. NO text, NO lettering, NO logos, NO watermark or corner icon, NO UI, NO webpage, NO labels, NO collage, NO graphic line baked into photo. This is concept campaign imagery, not documentation of real salon or staff. Wide16:9 landscape modern barbershop interior with one premium blackleather barberchair, brushedchrome hydraulicpedestal/footrest and tall oval mirror on graphite concrete wall. Chair on LEFT half 3/4 angle, RIGHT half dark negative space for copy. Subtle navy reflections in smokedglass, neutral elegant lights, believable mirror reflections show interior only, no people in scene or mirror, no logos. Entirechair and pedestal visible. No brass/gold, no wooden rusticbarberdecor, no garish LEDs. Natural professional architecturalphoto."
+    },
+    {
+      "key": "environment-background",
+      "file": "01-hero/fundo-grafite.png",
+      "role": "Fundo discreto para transições, peças transparentes e contato.",
+      "transparent": false,
+      "prompt": "Use case: photorealistic-natural. ONE standalone premium men's barbershop campaign photo for ORHAN, The Signature Line. Inputs are aesthetic / character REFERENCES ONLY, not edit targets. Graphite-black, smoked glass, brushed chrome, restrained navy blue. Neutral warm natural skin with subtle cool silver-blue rim light, modern British barber character. Photoreal anatomy and credible barber tools, subtle grain / natural texture, beautiful photographic depth, high-end editorial visual. Never gold/amber overlays, cyberpunk neon, sci-fi rays or fantasy grooming. NO text, NO lettering, NO logos, NO watermark or corner icon, NO UI, NO webpage, NO labels, NO collage, NO graphic line baked into photo. This is concept campaign imagery, not documentation of real salon or staff. Wide16:9 lowcontrast backgroundplate of dark graphite smoked-glass barbershop atmosphere. Center and LEFT 60% nearly black uncluttered negative space; subtle blurred cool silver vertical reflections at far rightedge and farleftedge. Elegant neutralblack/navysoftgradient from physical light, very understated real blur ofmoderninterior, no foreground chair/tools, no people orfaces, no decorative glow or symbols. Suitable behind moving transparent razor layers. The image should support rather than compete with text."
+    },
+    {
+      "key": "blade-macro",
+      "file": "02-animacao/macro-fio-navalha.png",
+      "role": "Plano macro para a passagem do contorno do fade ao metal.",
+      "transparent": false,
+      "prompt": "Use case: photorealistic-natural. ONE standalone premium men's barbershop campaign photo for ORHAN, The Signature Line. Inputs are aesthetic / character REFERENCES ONLY, not edit targets. Graphite-black, smoked glass, brushed chrome, restrained navy blue. Neutral warm natural skin with subtle cool silver-blue rim light, modern British barber character. Photoreal anatomy and credible barber tools, subtle grain / natural texture, beautiful photographic depth, high-end editorial visual. Never gold/amber overlays, cyberpunk neon, sci-fi rays or fantasy grooming. NO text, NO lettering, NO logos, NO watermark or corner icon, NO UI, NO webpage, NO labels, NO collage, NO graphic line baked into photo. This is concept campaign imagery, not documentation of real salon or staff. Wide16:9 landscape extreme macro of ONE elegant straight razor's brushed chrome blade edge on deep graphitebackground. Blade runs diagonally from lower-left to upper-right, one tiny silver highlight along edge, beautiful steel fine brushing, slight coolbluerim. No branding letters, no etchednames, no hair, nohand. Large negative area above/left and bottomright. Steelisphysically believable, clean delicate sharp edge, no neonlight or heavy haze. Shallowdepth of field, artistic macro of precise material. This is the matchcut bridge between haircutcontour and explodedtool, not an adposter."
+    },
+    {
+      "key": "razor-exploded",
+      "file": "02-animacao/navalha-explodida.png",
+      "role": "Navalha em três camadas transparentes, referência de posição aberta.",
+      "transparent": true,
+      "prompt": "Use case: product-mockup. Input2 and input3 razor are OBJECTDESIGN reference, input1 only brandmood. ONE exploded modern straight razor on TRUE TRANSPARENT RGBA canvas. Landscape1536x1024. Exactly THREE separate aligned components, entire tools visible with clearalpha margins and gaps: thin brushedsteel bladeinsert at upperleft around x15-65%,y15-30%; polishedchrome bladeholder with believable curved tang/pivot mount acrossmiddle x18-76%,y37-52%; matte deepnavy handle with tiny circularsilverpivot near oneend acrosslower x20-82%,y65-80%. All three oriented same almosthorizontal gentle diagonal descending towardright, same cameraview as reference, alignment axis clearly means these join as one straight razor. Long sleek rounded navyhandle NOT giantgrip, brushed silvermetal at realistic scale. All components UNBRANDED: no ORHAN letters orlogo engraved, no text. Controlled clean technicalexplode, not a tangled pile, no other screws. Photoreal studio CGI materialwithneutralsoftkey andsilver-blue subtle rimlight. No background, NO floor, NO shadowsoutsideobjects, NO haze, NO glow, NO watermark, true transparency around every component. Simple physically plausible replaceable-blade barber shavette with navyhandle andchromeholder. No additionaltools, no clients, no hands."
+    },
+    {
+      "key": "hero-mobile",
+      "file": "01-hero/hero-mobile.png",
+      "role": "Hero com enquadramento vertical e espaço superior para títulos no celular.",
+      "transparent": false,
+      "prompt": "Use case: compositing. Input is the photographic character/style reference of ORHAN barber working on a curlyhaired beardedadultmale. Create MOBILE portrait3:4 hero photo, SAME client olive medium skin, blackshort tightcurls low skinfade, short groomeddarkbeard, blackcape; samebarberblackshirt tattooedforearm. Reframe scene into LOWER two thirds; client's head rightcenter around x70%,y58%, barberbehind aroundx38%,y40%, handsscissor/comb plausible. TOP30% is dark lowcontrast softly blurred graphite salon NEGATIVE SPACE for mobileheadline. Keep wholeclienthairtop, beard and shoulders inframe, no awkwardcuts. Neutral warm humanskin, coolsilver/navy mildrim, modernsmokedglassbarbershop. NO text, logo, webpage, UI, graphics, watermark orcornerstar, no foreground floatingtools. ONE finished realistic vertical photograph."
+    },
+    {
+      "key": "portrait-cutout",
+      "file": "02-animacao/retrato-final-transparente.png",
+      "role": "Retrato recortado para a revelação pelo O e encaixe na galeria.",
+      "transparent": true,
+      "prompt": "Use case: background-extraction. Input is the EDITTARGET. Remove ONLY the salon background from this olive-skinned adultmale portrait with tight blackcurls skinfade shortblackbeard blackcape and tiny white neckstrip. Keep EXACT client face haircut curls beard pose and cape, original light/color/detail. Same original portraitcanvas1086x1448 and placement, wholehairhead visible, cape reachesbottomedge. Produce TRUEtransparentRGBA outside the entire visible head/neck/shoulders/cape, with cleanrealistic hairalpha. No new hair, face alterations, fake colorededge, outline, glow, haze, shadow or background. NO text, logo orwatermark. One photoreal subjectcutout for hero-to-gallery animation."
+    },
+    {
+      "key": "monogram",
+      "file": "05-marca/monograma-o-transparente.png",
+      "role": "Monograma O para sobreposição e transição à galeria",
+      "transparent": true,
+      "prompt": "Use case: background-extraction. Input is the EDIT TARGET: transparent ORHAN logo, oval O-with-integrated straight razor over ORHAN wordmark and BARBER · ST ALBANS descriptor. Isolate ONLY the exact existing top O-with-razor SYMBOL. Remove the ORHAN wordmark and descriptor completely to transparency. Preserve the symbol's exact outline, its negative space razor silhouette, original paleplatinum flat opaque color #DCE3E8, original size and original position on the SAME landscape1536x1024 canvas. Do not center or enlarge it, do not alter the O / razor geometry, do not add material textures or gradients. All surrounding pixels and removed lettering must be TRUE transparent RGBA. No glow, haze, shadow, background, floor, text or mockup. One flat precise monogram only, intended as an animation layer / brandmaskguide."
+    },
+    {
+      "key": "logo",
+      "file": "05-marca/orhan-logo-transparente.png",
+      "role": "Logo ORHAN aprovado, em PNG transparente",
+      "transparent": true,
+      "prompt": "Use case: logo-brand. Create ONE distinctive premium men's BARBERSHOP identity for exact name \"ORHAN\". True transparent RGBA background. Design a bespoke monogram above a horizontal wordmark. Monogram: a clean balanced thick oval O with a single refined straight razor blade silhouette integrated into its lower-right segment through negative space. It must still read clearly as O and subtly communicate barber precision; no random slash, no crossed scissors, no crowns, no beard clipart, no badge border. Wordmark exact \"ORHAN\", O R H A N, luxurious custom uppercase slightly extended neo-grotesk letterforms, medium-bold, beautiful optical spacing, clean slightly tapered diagonal on R leg echoing a razor edge. Under wordmark exact small descriptor \"BARBER · ST ALBANS\" in refined widely spaced sans. Strong restrained contemporary British grooming identity, feels bespoke, appropriate for storefront / capes / booking website, not a beauty salon logo. All artwork ONE FLAT opaque pale platinum color #DCE3E8, no blue accent in this primary monochrome master. Centered composition, symbol discreet about 40% of wordmark width, generous clear margins. Flat vector-friendly clean edges, NO background, no floor, no glow, no metallic textures, no gradient, no shadows, no 3D extrusions, no mockup, no watermark, no presentation labels. Output just the single finished logo in landscape1536x1024 PNG transparent."
+    },
+    {
+      "key": "razor-blade",
+      "file": "02-animacao/lamina.png",
+      "role": "Lâmina isolada para a separação por scroll",
+      "prompt": "Edit the referenced ORHAN razor product asset. Preserve photorealistic brushed platinum/chrome metal and deep navy handle materials, exact same studio lighting, perspective and construction. Output a genuine transparent-background PNG, absolutely no background, haze, glow, cast shadow, text, or additional objects. Keep ONLY the topmost straight silver blade component. Remove the middle chrome holder and bottom navy handle entirely. Keep the blade at the exact same size, angle and position as in the reference, on the original 1536x1024 landscape canvas. All other pixels transparent.",
+      "transparent": true
+    },
+    {
+      "key": "razor-holder",
+      "file": "02-animacao/suporte.png",
+      "role": "Suporte cromado isolado para a separação por scroll",
+      "prompt": "Edit the referenced ORHAN razor product asset. Preserve photorealistic brushed platinum/chrome metal and deep navy handle materials, exact same studio lighting, perspective and construction. Output a genuine transparent-background PNG, absolutely no background, haze, glow, cast shadow, text, or additional objects. Keep ONLY the middle chrome blade-holder component including its curved tang and pivot hole. Remove the top blade and bottom navy handle entirely. Keep the holder at the exact same size, angle and position as in the reference, on the original 1536x1024 landscape canvas. All other pixels transparent.",
+      "transparent": true
+    },
+    {
+      "key": "razor-handle",
+      "file": "02-animacao/cabo.png",
+      "role": "Cabo azul-marinho isolado para a separação por scroll",
+      "prompt": "Edit the referenced ORHAN razor product asset. Preserve photorealistic brushed platinum/chrome metal and deep navy handle materials, exact same studio lighting, perspective and construction. Output a genuine transparent-background PNG, absolutely no background, haze, glow, cast shadow, text, or additional objects. Keep ONLY the bottom navy handle component including its two silver rivets. Remove the top blade and middle chrome holder entirely. Keep the handle at the exact same size, angle and position as in the reference, on the original 1536x1024 landscape canvas. All other pixels transparent.",
+      "transparent": true
+    },
+    {
+      "key": "razor-assembled",
+      "file": "02-animacao/navalha-montada.png",
+      "role": "Navalha aberta montada, estado inicial e final da composição",
+      "prompt": "Correct this barber razor product asset to be PHYSICALLY ASSEMBLED, ONE connected object. Currently the blue handle floats below the steel blade assembly, which is wrong. Attach the RIGHT END silver rivet of the navy handle to the steel assembly circular pivot at the blade/tang junction near x1000,y420; rotate and translate the handle as needed. The blade and navy handle must touch and share ONE pivot rivet. Show the razor opened approximately 145 degrees: blade extends upper-left from pivot, navy handle extends lower-right from pivot, chrome curved tang extends beyond pivot. Keep a small angular separation only between the open blade and handle tips; NO physical gap at the pivot. Same brushed steel, navy and lighting. Reframe to keep entire ONE assembled object visible with transparent margins on landscape1536x1024. Remove duplicate hardware, no detached handle, no extra pieces, no background haze/glow/shadow, genuine clean transparent PNG. A real functional straight razor photographed as one item.",
+      "transparent": true
+    },
+    {
+      "key": "razor-closed",
+      "file": "02-animacao/navalha-fechada.png",
+      "role": "Navalha recolhida para a transição de encerramento",
+      "prompt": "Fix the mechanical geometry of this CLOSED barber straight razor asset. Preserve navy textured handle, brushed platinum steel, lighting and diagonal camera view. The blade assembly must be FULLY FOLDED INSIDE the navy handle, with its pivot hole aligned to and joined by the RIGHT END silver handle rivet. Remove the currently visible extra disconnected round hole in the middle of the steel assembly. Show a single safely folded razor: one navy handle outer scale, a thin chrome spine flush along its top, and at most a tiny curved tang at the right pivot. Do not leave a wide silver blade panel above the handle. Both end rivets visible, one functional object, no floating parts. Landscape 1536x1024 with at least 8 percent clear transparent margin. Genuine clean transparent PNG, no background or ambient haze, no glow or shadow, no text.",
+      "transparent": true
+    }
+  ]
+}
